@@ -1,0 +1,6 @@
+include ':lib_api'
+include ':app'
+
+//include_with_api(project:":lib_api")
+
+rootProject.name = "MMKVDemo"
